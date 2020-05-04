@@ -1,0 +1,623 @@
+Hello and Welcome to Musings by Amit
+Today
+I am going to talk about
+twenty two
+highest paying jobs
+for software engineers
+This topic
+is interesting
+because salaries
+of 80% software engineers
+have remained average
+or below average
+in the last ten years
+Now
+the software industry is changing
+and if you focus on
+the right streams of software development
+then chances are
+that you can increase your salary
+by two times
+or even four times
+within a short time
+So in this video
+we are going to discuss
+Why
+you should focus
+on high paying jobs in software
+What
+are the streams of software development
+where
+you can get these High Paying Jobs
+What
+is the competition
+for these kind of jobs
+And most important thing
+How do you prepare yourself
+to get these high paying jobs
+You will find all the answers
+in this video
+so stay till the end
+And if you want to become
+a top earning software engineer
+wherever you are in the world
+then pay full attention
+But before we move forward
+I want you to like this video
+because
+it will help the Youtube Gods
+to show this video
+to more people like you
+And yes
+if you want
+tried tested and proven methods
+to grow in your career
+by four times to ten times faster
+then subscribe to this channel and press the
+bell icon
+so that
+you will see videos
+that will help your career
+as soon as they are released
+So like and subscribe now
+Having done that
+Let us start with
+why
+do you need to focus on
+getting the Highest Paying Jobs
+in the Software Industry
+I will tell you why
+I have a friend
+who is a software engineer
+I know him since 2006
+At that time
+he was a fresher
+and he got
+a below average salary
+as a fresher in software development
+Do you know
+the average salary of a fresher
+in the software industry?
+In India
+it is Rupees three lacs twenty five thousand
+per annum
+whereas
+in the US
+it is dollars sixty seven thousand five hundred
+the sad part is
+that this average salary
+has remained the same
+for last ten to fifteen years
+Ask any software engineer
+Coming back to my friend
+I met him after ten years
+in 2016
+he was frustrated
+and the reason was
+his low paying job in a software company
+he was with the company
+for more than ten years
+he told
+Amit, I am struggling with my finances
+my salary is poor
+it is peanuts compared to my colleagues
+with the same experience
+I am not able to find another job
+or improve my income
+and now
+the company is talking about layoffs
+it is very disturbing
+I don’t know what to do
+And
+this video is inspired by that conversation
+I am going to tell you exactly
+what I told him
+and this information
+changed his salary
+during our conversation
+I understood
+that he was working on the same things
+that he had learned in 2006
+Over that
+he was doing
+the same type of software projects
+Now you are smart
+and you don't need to be Albert Einstein
+to say
+If you keep doing the same things
+then you keep getting the same results
+If you remain on the same technology
+for an extended period of time
+then your income
+will grow very slowly
+this is an attitude
+of a mediocre software engineer
+and I don’t want you to have this attitude
+I want you to be that software engineer
+who sees
+how the industry is shaping up
+with respect to technology
+and is at the forefront of that technology
+because
+such an engineer will never have to worry
+about salary or promotions or even layoffs
+That is the single biggest reason
+you as a software engineer
+should focus on getting
+the highest paying jobs
+in the software industry
+because when you do that
+you will get ideas and insights
+about streams of software development
+you need to focus on
+otherwise
+if you are remain frustrated
+then like my friend
+you will be left behind earning peanuts
+If there is only one thing
+you can take from this video
+then take this
+focus all your attention
+on skills that will get you a high paying
+job
+so that you will become invincible
+in the software industry
+and this is a mindset change more than
+learning a new skill
+And I was able to increase my salary
+by thirty two times in eight years
+because of this mindset change
+Every two years I got a salary raise
+and one time I got a raise
+within 9 months of starting at a job
+just by focusing
+on the latest streams in software development
+at that time
+If you are convinced
+let us look at
+streams of software development
+where you can get high paying jobs
+Recently I was reading a newsletter from Infosys
+In that Infosys mentioned
+twenty two
+different streams of software development
+where they are looking for power programmers
+prower programmers
+are the best engineers in Infosys
+they command a higher salary
+than the regular programmers
+In the same way last year
+TCS announced double salary
+for specific software engineers
+they call Hot Talent
+even other software services companies
+like IBM, Wipro, Accenture, Capegemini, Cognizant,
+Tech Mahindra
+or product companies like
+Apple, Microsoft, Google, Facebook
+or SaaS companies like Amazon, Paypal, Salesforce
+have made such an announcement
+So after doing a detailed research
+I found that
+there are twenty two streams of software development
+where companies are ready to pay a much higher
+salary
+often two times to four times more than average
+salary
+at all levels
+And this is not just in India
+This is across the world
+Software Industry in US, UK, Canada,
+Australia, New Zealand,
+European Union, Russia, China
+and many other countries
+are ready to pay higher salaries
+to these software engineers with new skills
+Let us look at each stream one by one
+The first stream is the Full Stack Developer
+Full Stack Engineers can write
+client side or frontend code or as well as
+server side or backend code with ease
+they also know
+how to design, develop and use a database
+they have the ability
+to design and develop
+a complete software application from scratch
+The second stream
+is API Developer or
+Application Program Interface Developer
+API Engineers create interfaces for software
+application
+to connect two different software applications
+together
+they can design and develop
+software components
+that can interact with any third party software
+without modifying
+the underlying code
+in both the applications
+The third stream is
+Business Process Management Developers
+or BPM Developers
+BPM engineers build custom software
+as per requirement of the client
+They follow a tedious process
+of gathering requirements
+and then
+designing and developing a solution
+right from architecture
+to development and
+implementation phases
+they are able to follow
+the long, tedious and rigorous
+process of building a custom software
+tailored to their clients needs
+The forth stream is
+Cybersecurity Developers
+Cyber Security Engineers protect
+systems and data from digital criminals
+They design systems to protect data and money
+from hackers
+Cyber Security
+is the fastest growing field today
+because of an increased use of Internet
+for transactions that deal with money
+The fifth stream is
+Legacy Modernisation Developer
+Legacy modernisation engineer
+works on
+encapsulating, reposting, migrating,
+refactoring, rearchitecting, rebuilding,
+and replacing old systems
+with brand new systems
+They transform the entire IT services
+for any company from old to new
+Legacy modernisation is
+a complex, labor intensive, and risky process
+and often engineers try to avoid such projects
+The sixth stream is
+Enterprise Cloud or Cloud Computing Developer
+Enterprise Cloud or Cloud Computing Engineer
+has through understanding
+of public, private and hybrid cloud solutions
+such as Amazon AWS or Microsoft Azure or Google
+Cloud
+these engineers
+handle the core concepts of cloud computing
+as well as manage
+the cloud infrastructure
+and the cloud applications
+within a cloud ecosystem
+The seventh stream is
+Big Data Developer
+Big Data engineer
+creates and manages
+a company’s Big Data infrastructure and
+tools
+and creates visualisation
+as well as reports from vast amounts of data
+they handle a huge amounts of data,
+while understanding
+the complete data flow
+as well as business model
+using some advanced tools and technologies
+that have only become popular
+in the last decade
+The eights stream is DevOps Developer
+DevOps engineer
+manages IT Infrastructure
+to support software development
+in a multi-tenant or hybrid cloud environment
+They ensure that
+software application keep running
+during incremental changes to the code
+and the company
+is able to continuously build software
+without stopping the application
+The ninth stream is IT Automation
+IT Automation engineer
+creates automated solutions for software processes
+like Automated Testing,
+Automated Support
+or Automated Software Delivery
+they need a wide range of skills
+to understand systems, networks, hardware
+and software
+along with skills in automation programming
+The tenth stream is
+Enterprise Service Developer
+Enterprise Service Engineers
+enable users within company
+to use enterprise applications
+They manage
+changes, releases, desktops, user accounts,
+incidents, service catalogue, and performance
+of an enterprise systems within a company
+The eleventh stream is
+IoT or Internet of Things Developer
+IoT engineers
+writes programs
+to make the machine do things
+without the requirement of human intervention
+over a wireless network
+they build robots and embedded systems
+by combining the world of electrical
+mechanical chemical or civil
+with computer software and the internet
+The twelfth stream is
+Enterprise Learning Platform Developer
+Enterprise learning platform engineer
+builds applications and systems that are useful
+in e-learning
+they create infrastructure
+required for e-learning
+that is used by companies
+to empower their employees
+to build their skills and
+advance their careers
+The thirteenth stream is
+Robotic Process Automation Developers
+Robotic Process Automation Engineer
+writes code
+to automate workflows
+by studying user
+performing a task in an application
+They build systems like the chatbots
+that are gaining a wide acceptance
+in the customer support scenarios
+The fourteenth stream is
+Artificial Intelligence and Machine Learning
+Developers
+Artificial Intelligence Engineer
+writes machine learning algorithm to curate
+data
+and then use that data to solve real world
+problems
+using Artificial Intelligence technology
+this technology is behind all the streams
+from Cloud Computing
+to Robotic Process Automation
+to Big Data to DevOps.
+So engineers knowing
+Artificial Intelligence and Machine Learning
+are most in demand today
+The fifteenth stream is
+Digital Marketing Developer
+Digital Marketing engineer
+combines web technology and digital marketing
+platforms
+like website, email, CRM etc
+for purpose of achieving marketing goals
+They know of both Marketing
+as well as Digital Technology
+they can build marketing systems
+that can increase the sales exponentially
+making big profits for their clients
+The sixteenth stream is
+Digital Product Developer
+Digital Product Engineer
+creates digital products
+from their ideation phase
+to architecture, design
+and deployment phase
+They follow a rigorous process
+of product development,
+Agile Development,
+Quality Assurance Testing,
+IP Creation and
+Analytical Reporting.
+they reduce time to market
+while improving quality
+of a software product
+The seventeenth stream is
+Omni Channel Marketing Developer
+Omni Channel Marketing Engineer
+designs solutions
+to give customers
+a seamless experience on different platforms
+or devices
+They align
+the companies systems and messages
+in a way
+that there is a uniform experience
+for the customer
+The eighteenth stream is
+Content Personalisation Developers
+A Content Personalisation Engineer
+defines and facilitates the content structure
+during the entire content strategy,
+production and distribution cycle
+from beginning to the end
+they create technology
+that is a bridge between content strategists
+and producers
+and the developers and content managers
+who publish and distribute content
+The nineteenth stream is
+3D Printing Developers
+A 3D Printing Engineer
+use design software
+to model, validate and communicate
+ideas for real life 3D objects
+before committing it to production
+The twentieth stream is
+Augmented Reality & Virtual Reality Developers
+Augmented Reality Engineer or Virtual Reality
+Engineer
+designs and builds firmware
+required for Augmented Reality, Virtual Reality
+and
+Mixed Reality Experiences
+They create technology
+that makes AR and VR pervasive and universal
+they require deep collaboration
+across engineering disciplines
+like electrical, mechanical,
+optical, firmware and software
+The twenty-first stream is
+Blockchain Developers
+A Blockchain Engineer
+develops applications
+for multiple platforms
+like Ethereum, Hyperledger, Openchain,
+Stratis, Lisk, IOTA and Hydrachain
+blockchain technology is helping to disrupt
+many industries
+like finance, healthcare,
+supply chain, transportation, manufacturing
+and retail
+And finally
+The twenty-second stream is
+Drones Developer
+A Drones Engineers
+develop drones
+based on their knowledge
+of different branches of engineering,
+such as aeronautical,
+electronics, electrical, mechanical and robotics
+engineering
+Drones are useful for many things
+that require UAV or Unmanned Aerial Vehicle
+I hope you are not exhausted by this list.
+But remember
+you need to focus on only one stream
+of your interest.
+So these twenty two streams
+Full Stack Development
+Application Programming Interface or API
+Business Process Management
+Cybersecurity Legacy Modernisation
+Enterprise Cloud or Cloud Computing
+Big Data DevOps IT Automation
+Enterprise Service Management
+Internet of Things
+Enterprise Learning Management
+Robotic Process Automation,
+Artificial Intelligence & Machine Learning
+Digital Marketing Digital Product Engineering
+Omni Channel Marketing
+Content Personalisation
+3D Printing
+Augmented Reality
+Blockchain and Drones
+Focusing on any one
+of these twenty two streams
+will give you an opportunity
+for a high paying job
+Now, what is the competition
+So in 2018
+about two hundred thousand
+software engineers
+applied to TCS for a job as a fresher
+They took the
+popular National Qualifier Test of TCS
+also known as the Ninja Test
+From these thirty six thousand engineers
+got selected for a job in TCS
+But out of that thirty six thousand engineers
+there were two thousand engineers
+who were given a double salary
+Because these engineers
+had the knowledge of
+one of the streams
+we have mentioned here for highest paying
+jobs
+So 5.55% freshers were given a double salary
+If you see other services companies
+like Infosys, Capegemini, Cognizant,
+Accenture, Wipro
+then you will see a similar trend
+of 5% engineers getting a double salary
+But the product companies
+like Microsoft, Salesforce, Google, Facebook,
+Amazon, Paytm
+and many others
+are hiring engineers
+in these streams for a long time now
+almost for a decade
+they hire more engineers
+in these streams than services companies
+So overall
+20% of all software engineers
+can take advantage of these streams
+of software development
+and this percentage will
+keep increasing with time
+So to get these high paying jobs
+You have to be within top 20 software engineers
+out of hundred
+That is the real competition
+It is not easy
+but if you are determined
+and you really want to succeed
+in the field of software development
+then you have to work toward
+upgrading your skills
+to one of the streams of software development
+discussed in this video
+So coming to the last question
+how do you do this,
+how do you position yourself
+to get this high paying jobs
+The first thing is
+decide one of the streams
+of software development you like
+then go online
+and find out
+what are the jobs available in that stream
+pay attention to the job description
+and see what companies looking for
+in engineers related to that field
+then you can do an appropriate certification
+or specialisation in that stream
+If you want I have a document
+link is in the description
+you can download this document
+where I have listed some certification or
+specialisation
+related to the streams of software development
+mentioned here
+This is to help you
+understand
+what you need in order to find jobs in that
+field
+Also I will be making a video
+on each stream I have mentioned here
+In that I will cover
+Why that stream is gaining popularity?
+What type of projects are happening in that
+stream?
+Which global companies are hiring for that
+stream?
+What are the skills companies want in you?
+And
+How you can upgrade yourself
+to become better in that stream?
+Once you get the basic knowledge
+of working in a certain stream
+then you can immediately apply for
+an internship or a job in that field
+once you get a job you are on your road to
+success
+you will be able to quickly
+increase your income
+by two times or even four times
+your existing salary
+And for all those
+experienced software engineers
+who are getting an average salary
+watch this video where I explain
+how you can go from an average salary
+to two to three times your salary
+in two appraisal cycles
+Don’t forget to like this video
+and if you want to watch the video
+on each stream of software development
+then Subscribe to this channel
+and Ring the bell Icon
+so that
+you get the video
+as soon as they are released
+Thank you for watching,
+Stay focused.
+Stay rich
